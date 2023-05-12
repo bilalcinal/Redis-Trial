@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCache", "InMemoryCache\InMemoryCache.csproj", "{47451BC5-111C-4B0D-86C8-45FB4C438C0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedCache", "DistributedCache\DistributedCache.csproj", "{92A0414C-77A1-4282-8FC8-3B20D498FA27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{47451BC5-111C-4B0D-86C8-45FB4C438C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47451BC5-111C-4B0D-86C8-45FB4C438C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47451BC5-111C-4B0D-86C8-45FB4C438C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A0414C-77A1-4282-8FC8-3B20D498FA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A0414C-77A1-4282-8FC8-3B20D498FA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A0414C-77A1-4282-8FC8-3B20D498FA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A0414C-77A1-4282-8FC8-3B20D498FA27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
